@@ -52,7 +52,7 @@
         "type": "salamander",
         "password": "hanis"
       },
-      "server": "2a03:b0c0:3:d0::f31:e001",
+      "server": "2a03:b0c0:3:d0::18b4:c001",
       "password": "hanis",
       "server_port": 24350,
       "tls": {
